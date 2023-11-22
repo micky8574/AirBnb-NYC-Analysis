@@ -11,8 +11,8 @@ The company also makes a lot of its data available for free. Through the Inside 
 
 In this project, we will work with a dataset of New York City-NYC properties advertised on the platform. This dataset contains information about the prices, locations, reviews, room types, hosts, and more for over 50,000 rooms.
 
-Our main goal is to take some insights from the data, such as the most common room types, locations, and how the prices vary depending on the room type and the location of the property.  
-
+Our main goal is to take some insights from the data, such as Top 10 Hosts by Total reviews,
+ most common room types, how the prices vary depending on the room type and the location of the property ,average review per month by room-type & neighbourhood group etc.
 </br>  
 
 ### Tools Used
