@@ -2,7 +2,7 @@
 
 ### Project Overview  
 ---
-Airbnb is considered one of the biggest hotel chains in the world. And it does not own a single hotel room!
+Airbnb is considered one of the biggest hotel chains in the world.
 
 The company became successful by connecting travelers who need a place to stay with the so-called hosts, people who are willing to rent their places. In the Airbnb platform, it is possible to book everything from a shared room in a house with other people to an entire apartment or hotel room.
 
